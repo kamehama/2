@@ -1,0 +1,7 @@
+body{text-align: center;}
+#starting{
+    background: linear-gradient(#ff0000 0%,#00ff88 100%);
+}
+img{width: 175px}
+body{margin: 50px}
+.line { height: 6px; background-color: #000; width: 70px; margin: 8px auto; }
